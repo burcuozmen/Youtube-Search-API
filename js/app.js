@@ -33,7 +33,7 @@ $(function() {
 });
 
 function init(){
-    gapi.client.setApiKey("AIzaSyCm7EiGmQGVz0sYR-87sip8UPN_FSjF9ik");
+    gapi.client.setApiKey("AIzaSyCgwayog_OEEfBhMAkHovGQwhgydODwNSc");
     gapi.client.load("youtube" ,"v3" , function(){
         //youtube api is ready
     });
